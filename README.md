@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swapnil Bera</h1>
-<h3 align="center">Pursuing B.Tech in IT & A coding enthusiast & love to explore new fields</h3>
+<h3 align="center">Pursuing B.Tech in CSE & A coding enthusiast & love to explore new fields</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swapnilbera" alt="swapnilbera" /></a> </p>
 
