@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Android Development & DSA**
 
-- 👨‍💻 All of my projects are available at [https://github.com/swapnilbera](https://github.com/swapnilbera)
+- 📝 My Portfolio Link [http://swapnilbera.unaux.com/](http://swapnilbera.unaux.com/)
 
-- 📝 I am doing daily coding challenge on [https://twitter.com/bera_swapnil](https://twitter.com/bera_swapnil)
+- 👨‍💻 All of my projects are available at [https://github.com/swapnilbera](https://github.com/swapnilbera)
 
 - 💬 Ask me about **Java,C,Kotlin**
 
